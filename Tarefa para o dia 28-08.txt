@@ -1,0 +1,2 @@
+1- o que é escalabilidade?
+2- como eu faço para montar uma arquitetura que caminhe nesse sentido / o que eu tenho que fazer na minha aplicação para ter vários clientes
